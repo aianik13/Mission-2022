@@ -1,0 +1,165 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+.custom_width{
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+
+
+
+.mission{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+.mission-content h1{
+    font-size: 50px;
+    border-left: 8px solid red;
+}
+#cus_margin{
+    margin-left: 20px;
+}
+.csu_color{
+    color: olive;
+}
+.mission-content p{
+    font-size: 30px;
+}
+.mission-content a{
+    font-size: 25px;
+    text-decoration: none;
+    background-color: red;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.mission-img{
+    padding-left: 10%;
+}
+.mission-img img{
+    width: 500px;
+   
+}
+.mission{
+    margin-bottom: 5%;
+}
+.CS{
+   text-align: center;
+   font-size: 50px;
+}
+.my_mission h1{
+    font-size: 50px;
+    text-align: center;
+    font-weight: 800;
+    
+}
+
+.mission-2022{
+    display: flex;
+}
+.mission-2022_left{
+    background: coral;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+}
+.mission-2022_left img{
+    width: 300px;
+}
+.mission-2022_left h2{
+    font-size: 40px;
+}
+.mission-2022_left p{
+    font-size: 30px;
+}
+#mission-2022_mid{
+    background: cyan;
+}
+
+#mission-2022_right{
+    background: darkgray;
+}
+.develop_bg_img{
+    
+}
+.develop{
+    display: flex;
+    align-items: center;
+}
+.develop_img img{
+    width: 500px;
+}
+.develop_content{
+    margin-left: 20%;
+}
+.develop_content h2{
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.develop_content p{
+    font-size: 25px;
+}
+.develop_content a{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 20px;
+    background: red;
+    color: white;
+    border-radius: 15px;
+}
+
+.gobal_community{
+    display: flex;
+    align-items: center;
+}
+.gobal_community_content{
+    width: 50%;
+}
+.gobal_community_img{
+    width: 50%;
+}
+
+.gobal_community_img img{
+    width: 550px;
+}
+.gobal_community_content h1{
+    font-size: 40px;
+}
+.gobal_community_content p{
+    font-size: 25px;
+}
+.gobal_community_content a{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 20px;
+    background: red;
+    color: white;
+    border-radius: 15px;
+}
+.footer{
+    background-color: black;
+}
+.footer_content{
+    text-align: center;
+    padding: 15px;
+}
+.footer_content h1{
+    color: #fff;
+}
+.footer_content p{
+    color: #fff;
+}
+.footer_content span{
+    color: olive;
+}
